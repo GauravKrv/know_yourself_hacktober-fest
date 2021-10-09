@@ -1,1 +1,5 @@
  Tell me about yourself?
+ 
+ #riyac31
+ 
+ I am Riya and I am a 3rd year, computer science B.tech student. I like coding in c++ and i have knowledge about c, html, css, javascript, bootstrap, API, data structures. I enjoy coding as it helps grow my thinking capabilities. I want to become a software developer and i am looking on collaboartion for full stack development. Apart from this i do some extra curri-cular activities like singing.
