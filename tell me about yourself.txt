@@ -3,3 +3,9 @@
  #riyac31
  
  I am Riya and I am a 3rd year, computer science B.tech student. I like coding in c++ and i have knowledge about c, html, css, javascript, bootstrap, API, data structures. I enjoy coding as it helps grow my thinking capabilities. I want to become a software developer and i am looking on collaboartion for full stack development. Apart from this i do some extra curri-cular activities like singing.
+ 
+ #mrxdripp
+ My name is Dripp and i am X years old. I started my CS background from exploring various fields in it, first I got to learn about the security and threats in our internet world, then i took some good knowledge on Android, did some projects and hackathons and contributed to some, then in the desire of learning more I learnt backend and web so I could know how things work in the server side, I have also explored ML and Software testing fields. Now basically am comfortable with X, Y and Z stack with all the prior knowledge in various fields. <NO AC YT>
+Now I am looking to leverage everything I've learned and get some hands-on-work experience.
+ 
+ 
